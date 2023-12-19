@@ -1,0 +1,5 @@
+pytrends
+plotly
+pandas
+argparse
+
